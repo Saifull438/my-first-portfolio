@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+    color: white;
+}
+
+
+
+.main-content {
+    text-align: center;
+}
+
+.main-content img{
+    width: 200px;
+    height: 200px;
+
+}
